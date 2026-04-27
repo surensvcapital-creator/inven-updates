@@ -1,6 +1,6 @@
 {
   "version": "4.4.4",
-  "notes": "Bump CURRENT_VERSION to 4.4.4",
+  "notes": "Windows: PDF review no longer stalls when no default PDF viewer is set on the computer.",
   "url": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.4.4/Inven-4.4.4-arm64.dmg",
   "urls": {
     "arm64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.4.4/Inven-4.4.4-arm64.dmg",
