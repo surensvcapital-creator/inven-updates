@@ -1,9 +1,10 @@
 {
-  "version": "4.4.3",
-  "notes": "Bug fixes: hardens auto-updater for unusual install paths, prevents duplicate invoice numbers on re-runs.",
-  "url": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.4.3/Inven-4.4.3-arm64.dmg",
+  "version": "4.4.4",
+  "notes": "Bump CURRENT_VERSION to 4.4.4",
+  "url": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.4.4/Inven-4.4.4-arm64.dmg",
   "urls": {
-    "arm64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.4.3/Inven-4.4.3-arm64.dmg",
-    "x86_64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.4.3/Inven-4.4.3-x86_64.dmg"
+    "arm64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.4.4/Inven-4.4.4-arm64.dmg",
+    "x86_64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.4.4/Inven-4.4.4-x86_64.dmg",
+    "windows-x64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.4.4/Inven-4.4.4-windows-x64.zip"
   }
 }
