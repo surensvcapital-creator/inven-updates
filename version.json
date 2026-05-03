@@ -1,10 +1,10 @@
 {
-  "version": "4.5",
-  "notes": "v4.5 \u2014 Calendar date picker, centered window, styled dialogs",
-  "url": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.5/Inven-4.5-arm64.dmg",
+  "version": "4.51",
+  "notes": "v4.51 \u2014 Subscription licensing, expiry screen, portal automation fixes",
+  "url": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.51/Inven-4.51-arm64.dmg",
   "urls": {
-    "arm64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.5/Inven-4.5-arm64.dmg",
-    "x86_64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.5/Inven-4.5-x86_64.dmg",
-    "windows-x64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.5/Inven-4.5-windows-x64.zip"
+    "arm64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.51/Inven-4.51-arm64.dmg",
+    "x86_64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.51/Inven-4.51-x86_64.dmg",
+    "windows-x64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.51/Inven-4.51-windows-x64.zip"
   }
 }
