@@ -1,10 +1,10 @@
 {
-  "version": "4.512",
-  "notes": "Fix build.sh: remove notarize/release steps (CI handles these separately)",
-  "url": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.512/Inven-4.512-arm64.dmg",
+  "version": "4.513",
+  "notes": "v4.513: Add crash logger for Windows silent failures",
+  "url": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.513/Inven-4.513-arm64.dmg",
   "urls": {
-    "arm64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.512/Inven-4.512-arm64.dmg",
-    "x86_64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.512/Inven-4.512-x86_64.dmg",
-    "windows-x64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.512/Inven-4.512-windows-x64.zip"
+    "arm64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.513/Inven-4.513-arm64.dmg",
+    "x86_64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.513/Inven-4.513-x86_64.dmg",
+    "windows-x64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.513/Inven-4.513-windows-x64.zip"
   }
 }
