@@ -1,10 +1,10 @@
 {
-  "version": "4.514",
-  "notes": "v4.514: Fix crash logger \u2014 catch import errors before they happen",
-  "url": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.514/Inven-4.514-arm64.dmg",
+  "version": "4.515",
+  "notes": "v4.515: Windows debug build \u2014 console=True to expose startup errors",
+  "url": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.515/Inven-4.515-arm64.dmg",
   "urls": {
-    "arm64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.514/Inven-4.514-arm64.dmg",
-    "x86_64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.514/Inven-4.514-x86_64.dmg",
-    "windows-x64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.514/Inven-4.514-windows-x64.zip"
+    "arm64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.515/Inven-4.515-arm64.dmg",
+    "x86_64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.515/Inven-4.515-x86_64.dmg",
+    "windows-x64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.515/Inven-4.515-windows-x64.zip"
   }
 }
