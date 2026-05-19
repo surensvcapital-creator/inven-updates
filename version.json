@@ -1,10 +1,10 @@
 {
-  "version": "4.517",
-  "notes": "ci: remove artifact storage \u2014 upload builds directly to GitHub Release",
-  "url": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.517/Inven-4.517-arm64.dmg",
+  "version": "4.518",
+  "notes": "v4.518: Fix _MEIPASS path + show crash error as popup",
+  "url": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.518/Inven-4.518-arm64.dmg",
   "urls": {
-    "arm64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.517/Inven-4.517-arm64.dmg",
-    "x86_64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.517/Inven-4.517-x86_64.dmg",
-    "windows-x64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.517/Inven-4.517-windows-x64.exe"
+    "arm64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.518/Inven-4.518-arm64.dmg",
+    "x86_64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.518/Inven-4.518-x86_64.dmg",
+    "windows-x64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.518/Inven-4.518-windows-x64.exe"
   }
 }
