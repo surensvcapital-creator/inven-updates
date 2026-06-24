@@ -1,10 +1,10 @@
 {
-  "version": "4.521",
-  "notes": "v4.521: Remove DPI ctypes conflict, use tk::PlaceWindow for centering",
-  "url": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.521/Inven-4.521-arm64.dmg",
+  "version": "4.522",
+  "notes": "ci(release): ship v4.522 arm64 macOS + Windows; skip Intel x86_64",
+  "url": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.522/Inven-4.522-arm64.dmg",
   "urls": {
-    "arm64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.521/Inven-4.521-arm64.dmg",
+    "arm64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.522/Inven-4.522-arm64.dmg",
     "x86_64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.521/Inven-4.521-x86_64.dmg",
-    "windows-x64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.521/Inven-4.521-windows-x64.exe"
+    "windows-x64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.522/Inven-4.522-windows-x64.exe"
   }
 }
