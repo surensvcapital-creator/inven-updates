@@ -1,11 +1,11 @@
 {
-  "version": "4.524",
-  "notes": "Windows now updates with one click \u2014 future updates install automatically. Plus stability improvements. (macOS requires Apple Silicon \u2014 M1 or later.)",
+  "version": "4.525",
+  "notes": "Minor maintenance update \u2014 reliability improvements.",
   "macos_min_arch": "arm64",
-  "url": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.524/Inven-4.524-arm64.dmg",
+  "url": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.525/Inven-4.525-arm64.dmg",
   "urls": {
-    "arm64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.524/Inven-4.524-arm64.dmg",
+    "arm64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.525/Inven-4.525-arm64.dmg",
     "x86_64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.521/Inven-4.521-x86_64.dmg",
-    "windows-x64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.524/Inven-4.524-windows-x64.zip"
+    "windows-x64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.525/Inven-4.525-windows-x64.zip"
   }
 }
