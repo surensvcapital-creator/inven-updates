@@ -1,11 +1,11 @@
 {
-  "version": "4.528",
-  "notes": "Fixes Chrome startup on some Windows PCs.",
+  "version": "4.529",
+  "notes": "Updated for the new Aditya Birla (ABLBL) portal \u2014 faster and more reliable.",
   "macos_min_arch": "arm64",
-  "url": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.528/Inven-4.528-arm64.dmg",
+  "url": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.529/Inven-4.529-arm64.dmg",
   "urls": {
-    "arm64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.528/Inven-4.528-arm64.dmg",
+    "arm64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.529/Inven-4.529-arm64.dmg",
     "x86_64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.521/Inven-4.521-x86_64.dmg",
-    "windows-x64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.528/Inven-4.528-windows-x64.zip"
+    "windows-x64": "https://github.com/surensvcapital-creator/inven-updates/releases/download/v4.529/Inven-4.529-windows-x64.zip"
   }
 }
